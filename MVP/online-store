@@ -1,0 +1,90 @@
+Kazemi Store
+ My Project Proposal
+
+ Research gathered by exploring
+Some students   :
+Paul Ehigie 
+Oluwakemi Atoyebi 
+
+Kazemi Store
+
+Providing quality fashion wears and items to Africans without them having to break the bank.
+
+ 
+
+Team members:
+
+    Zadré Wells - all areas to bring my project will be done and over see and tested etc 
+
+ 
+
+Technologies:
+
+The following are technologies and programming languages that will be needed to complete this project:
+
+·         HTML
+
+·         CSS
+
+·         JavaScript
+
+·         Bootstrap
+
+·         Python
+
+·         API
+
+ 
+
+Challenge:
+
+This project is saddled with the responsibility of reducing the inflation of fashion items such as clothes, sneakers, bags, jewelries etc thereby providing everyone with the opportunity regardless of their income level to be able to access good and quality fashion wears at a really affordable price that wouldn’t hurt their pockets.
+
+Problems this project wouldn’t solve is trying to tackle all the problems the fashion industry has been faced with.
+
+This project/application is targeted at users who are in their youthful and adult age range between the age range of 18 years to 50 years of age.
+
+For starters this project would be dependent on a few states before expanding its arms to other states and countries after a successful launch and significant growth.
+
+ 
+
+Risks
+
+The technical risk that may affect this project is probably a glitch in the system,  server crashing down,  hacking and stealing of customers credit/debit card information etc. These risks would be a major blow to the whole project and organization as a whole if any of these potential risk should come into play, as a mode to prevent these tragic risks from coming into existence is to have a  good server with enough bandwidth to accommodate enough data without having to crash also saving the data of the project into the cloud, having a strong firewall and a good team of cybersecurity expert to always protect the client sensitive data from been stolen by those with malicious intent.
+
+ 
+
+The non technical risk that may affect the project is delivering of goods to a wrong address, delivering goods that may be damaged while on transit etc. These risks would make a wrong impact to the organization efforts and dent it’s reputation, as a way to curb and prevent these non technical risks from coming into existence is to always crosscheck the client address before sending out their products for shipment and also properly packaging their goods well to avoid any form of damage.
+
+ 
+
+Infrastructure
+
+In the case of managing the team repository, a separate branch will be maintained for each stack meant for the project, for Instance the frontend codes will be on a separate branch while the backend codes will be on another branch later it will be merged and all potential conflicts will be resolved.
+
+ 
+
+My strategy for deployment will be to host the codes on a server supported with a domain name and a hosting provided from a hosting provider after all the codes have passed through a series of testing without failing.
+
+ 
+
+Populating our app with data will require several strategies which include but not limited to the following:
+
+Carrying out facebook ads, google ads, linkedin ads etc
+Opening a company page across various social media to drive traffic to the app
+Considering paid influencers to help drive traffic to the app
+The following tools and process will be used for testing:
+
+Unit testing
+Existing solutions
+
+Here are similar solution providers providing this service: Jumia, AliExpress, Ebay etc
+
+Why do I decide to work on this same solution/project?
+
+Considering a local provider like Jumia who sells products at a price quote on a high side with sometimes products that are of low quality from different vendors/sellers that are unverified with no means of knowing their level of credibility.
+
+Also putting into consideration other providers outside the country with a relatively fair price but with shipping/delivery issues and also low quality of products.
+
+This solution is targeted at eradicating all these issues to the barest minimum and provide a top notch service to clients locally which include providing of products that are of top quality at a cheap price and also providing a seamless and stress free shipment of their products to their respective address without any hassle or damaging their products.
+ i will be using react-native to create this app and using peers work as a guidance to create my store
